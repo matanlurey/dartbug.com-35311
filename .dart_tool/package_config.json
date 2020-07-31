@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart2js_export_deferred",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-07-31T17:56:07.566817Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.4"
+}
